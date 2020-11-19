@@ -5,3 +5,6 @@ enchiladas
 pozole
 hummus
 saldas
+Potatoes
+bananas
+carrots
